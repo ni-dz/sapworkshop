@@ -1,8 +1,7 @@
 package code.sap.schulung;
 
 /**
- * Hello world!
- *
+ * Prints the phrase every programmer has written to the command line at least once in their lifetime.
  */
 public class App 
 {
